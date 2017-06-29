@@ -1,0 +1,56 @@
+2017-06-29T09:07:06.044Z - normal: Load ~/.CocosCreator/settings.json
+2017-06-29T09:07:06.048Z - normal: checking language setting...
+2017-06-29T09:07:06.049Z - normal: Language: zh
+2017-06-29T09:07:06.418Z - success: protocol editor-framework registered
+2017-06-29T09:07:06.418Z - success: protocol app registered
+2017-06-29T09:07:06.418Z - success: protocol theme registered
+2017-06-29T09:07:06.418Z - success: protocol profile registered
+2017-06-29T09:07:06.419Z - success: protocol packages registered
+2017-06-29T09:07:06.422Z - success: protocol unpack registerred
+2017-06-29T09:07:06.422Z - success: protocol disable-commonjs registerred
+2017-06-29T09:07:06.678Z - normal: connected!
+2017-06-29T09:07:06.683Z - normal: Check project /Users/zhufu/cocosCreatorProjects/start_project
+2017-06-29T09:07:06.685Z - normal: Initializing Cocos2d
+2017-06-29T09:07:06.867Z - normal: Initializing Asset Database
+2017-06-29T09:07:06.892Z - success: protocol uuid registerred
+2017-06-29T09:07:06.892Z - success: protocol db registerred
+2017-06-29T09:07:06.893Z - success: protocol thumbnail registerred
+2017-06-29T09:07:06.893Z - normal: Loading editor/builtin packages
+2017-06-29T09:07:06.909Z - success: anysdk loaded
+2017-06-29T09:07:07.033Z - success: assets loaded
+2017-06-29T09:07:07.037Z - success: builder loaded
+2017-06-29T09:07:07.041Z - success: hierarchy loaded
+2017-06-29T09:07:07.045Z - success: inspector loaded
+2017-06-29T09:07:07.047Z - success: keystore loaded
+2017-06-29T09:07:07.050Z - success: node-library loaded
+2017-06-29T09:07:07.052Z - success: package-asset loaded
+2017-06-29T09:07:07.054Z - success: preferences loaded
+2017-06-29T09:07:07.066Z - success: project-importer loaded
+2017-06-29T09:07:07.068Z - success: project-settings loaded
+2017-06-29T09:07:07.071Z - success: ui-kit loaded
+2017-06-29T09:07:07.075Z - success: ui-grid loaded
+2017-06-29T09:07:07.078Z - success: scene loaded
+2017-06-29T09:07:07.079Z - success: sprite-editor loaded
+2017-06-29T09:07:07.085Z - success: store loaded
+2017-06-29T09:07:07.089Z - success: timeline loaded
+2017-06-29T09:07:07.090Z - normal: Loading builtin packages
+2017-06-29T09:07:07.093Z - success: asset-db-debugger loaded
+2017-06-29T09:07:07.095Z - success: code-editor loaded
+2017-06-29T09:07:07.095Z - success: color-picker loaded
+2017-06-29T09:07:07.100Z - success: console loaded
+2017-06-29T09:07:07.103Z - success: package-manager loaded
+2017-06-29T09:07:07.114Z - success: sdkbox loaded
+2017-06-29T09:07:07.120Z - success: tester loaded
+2017-06-29T09:07:07.124Z - success: ui-kit-preview-extra loaded
+2017-06-29T09:07:07.127Z - success: ui-kit-preview loaded
+2017-06-29T09:07:07.130Z - success: ui-tree loaded
+2017-06-29T09:07:07.928Z - normal: Initializing project /Users/zhufu/cocosCreatorProjects/start_project
+2017-06-29T09:07:07.932Z - normal: Loading packages
+2017-06-29T09:07:07.944Z - normal: [Lua Support] version 1.1.3
+2017-06-29T09:07:07.944Z - success: creator-lua-support loaded
+2017-06-29T09:07:07.944Z - normal: Watching packages
+2017-06-29T09:07:07.987Z - normal: Run Application
+2017-06-29T09:07:08.984Z - success: preview server running at http://localhost:7456
+2017-06-29T09:07:08.984Z - normal: Compiling scripts...
+2017-06-29T09:07:10.341Z - normal: Compiled project javascript file successfully
+2017-06-29T09:07:13.948Z - normal: 1.5.1

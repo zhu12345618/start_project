@@ -1,0 +1,18 @@
+{
+  "androidStudio": false,
+  "buildPath": "/Users/zhufu/cocosCreatorProjects/start_project/build",
+  "debug": false,
+  "keystoreAlias": "",
+  "keystoreAliasPassword": "",
+  "keystorePassword": "",
+  "keystorePath": "",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "sourceMaps": true,
+  "template": "default",
+  "useDebugKeystore": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "vsVersion": "auto"
+}
